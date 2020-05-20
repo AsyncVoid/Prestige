@@ -1,0 +1,9 @@
+name: Prestige
+main: me.FlameBlazer.Prestige.Main
+version: 0.1
+author: CookieAssassin
+description: >
+            Prestige to the limits.
+commands:
+    prestige:
+        desription: Prestige
